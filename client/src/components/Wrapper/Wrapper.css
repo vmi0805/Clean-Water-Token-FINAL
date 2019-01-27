@@ -1,0 +1,14 @@
+.wrapper {
+  margin: 10px;
+  background: white;
+/*  height: auto;
+  width: auto;*/
+  display: inline-block;
+/*  flex-flow: row wrap;*/
+  padding: 20px;
+  justify-content: space-around;
+  align-content: flex-start;
+/*  overflow: auto;*/
+/*  border: dotted blue;*/
+/*  border-radius: 10px;*/
+}

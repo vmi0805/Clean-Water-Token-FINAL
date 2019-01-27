@@ -1,0 +1,42 @@
+.bigWrapper{
+	display: inline-block;
+}
+
+/*.buttonsA{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 40%;
+}*/
+
+.eth-vote-button{
+	width:50%;
+	display: inline-block;
+	position: relative;
+	left: 20px;
+	bottom: 188px;
+	z-index: 1;
+}
+
+#button-align{
+	position: relative;
+	left: 10%;
+	align-items: center;
+	justify-content: center;
+}
+
+.banner{
+	width: 100%;
+	position: block;
+	height: 40px;	
+}
+
+#button-align2{
+/*	position: relative;*/
+	margin-top: 20px;
+	margin-left: 30px;
+	height: 20px;
+	width: auto;
+	align-items: center;
+	justify-content: center;
+}

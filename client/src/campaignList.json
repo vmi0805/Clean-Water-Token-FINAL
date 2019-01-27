@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Kompong Chhlang",
+    "location": "Cambodia",
+    "url": "https://my.charitywater.org/projects/KH.SPC.Q4.12.137.516",
+    "accountETH":0,
+    "accountToken":0
+  },
+  {
+    "id": 2,
+    "name": "Mahoba 27",
+    "location": "India",
+    "url": "https://my.charitywater.org/projects/IN.WAA.Q2.12.120.027"
+  },
+  {
+    "id": 3,
+    "name": "Missindhi",
+    "location": "Mozambique",
+    "url": "https://my.charitywater.org/projects/MZ.WVI.2H.15.209.062"
+  }
+]
